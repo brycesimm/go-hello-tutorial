@@ -1,0 +1,28 @@
+# Binaries
+*.exe
+*.o
+*.out
+
+# Test binaries and results
+*.test
+*.prof
+*.cov
+
+# Dependency directories (if using vendoring or modules)
+/vendor/
+go.mod
+go.sum
+
+# IDE and editor specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+
+# Temporary files
+*~
+# Log files
+*.log
